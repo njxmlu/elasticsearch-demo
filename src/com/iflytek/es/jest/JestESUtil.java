@@ -22,6 +22,7 @@ import java.util.List;
 
 /**
  * {jest 方式操作ES}
+ * 采用http协议
  *
  * @desc: zhjt-web
  * @author: kpchen@iflytek.com
